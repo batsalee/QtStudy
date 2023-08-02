@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/titlebarTest">
+<file alias="main.qml">C:/workspace/QtStudy/titlebarTest/main.qml</file>
+</qresource>
+</RCC>

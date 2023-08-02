@@ -1,0 +1,7 @@
+#include "CursorPosProvider"
+
+CursorPosProvider::CursorPosProvider(QObject *parent)
+    : QObject{parent}
+{
+
+}
